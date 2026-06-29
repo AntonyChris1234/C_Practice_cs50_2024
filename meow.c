@@ -1,20 +1,19 @@
 #include <stdio.h>
 #include "cs50.h"
 
+void meow(int n);
 
 int main(void) {
-    /*
-    int i = 0;
-    while (i < 3) {
-        printf("meow\n");
-        i++;
-    }
-    */
+    meow(3);
+}
 
-    for (int i =0; i < 3; i++) {
-        printf("meow meow meow\n");
-        printf("from friend\n");
+void meow(int n) {
+    for (int i =0; i < n; i++)
+    {
+        printf("meow\n");
     }
 }
+
+
 
 
