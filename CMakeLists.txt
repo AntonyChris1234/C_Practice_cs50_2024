@@ -11,9 +11,10 @@ add_executable(compare_program compare.c cs50.c)
 
 # Target 3: Your Agree Program
 add_executable(agree_program agree.c cs50.c)
-
 # Target 4: Your Meow Program
 add_executable(meow_program meow.c cs50.c)
 
 # Target 5: Your Calculator Program
 add_executable(calculator_program calculator.c cs50.c)
+
+add_executable(mario_program mario.c cs50.c)
