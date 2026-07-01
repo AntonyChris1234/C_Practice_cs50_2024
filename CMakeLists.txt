@@ -10,8 +10,7 @@ add_executable(hello_program hello.c cs50.c)
 add_executable(compare_program compare.c cs50.c)
 
 # Target 3: Your Agree Program
-add_executable(agree_program agree.c cs50.c
-        meow.c)
+add_executable(agree_program agree.c cs50.c)
 
 # Target 4: Your Meow Program
 add_executable(meow_program meow.c cs50.c)
