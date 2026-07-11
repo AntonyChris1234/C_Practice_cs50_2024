@@ -16,5 +16,6 @@ add_executable(meow_program meow.c cs50.c)
 
 # Target 5: Your Calculator Program
 add_executable(calculator_program calculator.c cs50.c)
-
 add_executable(mario_program mario.c cs50.c)
+add_executable(buggy_program buggy.c cs50.c)
+
