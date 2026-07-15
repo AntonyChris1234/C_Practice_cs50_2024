@@ -18,4 +18,6 @@ add_executable(meow_program meow.c cs50.c)
 add_executable(calculator_program calculator.c cs50.c)
 add_executable(mario_program mario.c cs50.c)
 add_executable(buggy_program buggy.c cs50.c)
+add_executable(scores_program scores.c cs50.c)
+
 
