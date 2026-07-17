@@ -23,5 +23,6 @@ add_executable(length_program length.c cs50.c)
 add_executable(uppercase_program uppercase.c cs50.c)
 add_executable(status_program status.c cs50.c)
 add_executable(search_program search.c cs50.c)
+add_executable(phonebook_program phonebook.c cs50.c)
 
 
